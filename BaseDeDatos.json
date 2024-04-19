@@ -1,0 +1,266 @@
+[
+    {
+        "ID": "Card1(Clone)",
+        "Nombre": "Daenerys",
+        "Ataque": 9,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card2(Clone)",
+        "Nombre": "Jon Snow",
+        "Ataque": 8,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card4(Clone)",
+        "Nombre": "Sansa S",
+        "Ataque": 6,
+        "Descripción": "La sobreviviente del Norte.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card3(Clone)",
+        "Nombre": "Tyrion L",
+        "Ataque": 7,
+        "Descripción": "Escoge una carta del rival y pasala a tu campo de batalla.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card5(Clone)",
+        "Nombre": "Cersei L",
+        "Ataque": 7,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card6(Clone)",
+        "Nombre": "Jaime ´L",
+        "Ataque": 7,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card7(Clone)",
+        "Nombre": "Arya Stark",
+        "Ataque": 8,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card8(Clone)",
+        "Nombre": "Brienne T",
+        "Ataque": 8,
+        "Descripción": "La Doncella Azul de la Isla de Tarth.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card9(Clone)",
+        "Nombre": "Sandor TD",
+        "Ataque": 8,
+        "Descripción": "Guardián cruel reconvertido en protector.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card10(Clone)",
+        "Nombre": "Jorah M",
+        "Ataque": 7,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card11(Clone)",
+        "Nombre": "Melisandre",
+        "Ataque": 8,
+        "Descripción": "Sacerdotisa roja con poderes misteriosos.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card12(Clone)",
+        "Nombre": "Bran S",
+        "Ataque": 7,
+        "Descripción": "El Cuervo de Tres Ojos.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card13(Clone)",
+        "Nombre": "Tormund G",
+        "Ataque": 7,
+        "Descripción": "Guerrero salvaje y amigo de Jon Snow.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card14(Clone)",
+        "Nombre": "Samwell T", 
+        "Ataque": 6,
+        "Descripción": "El intelectual de la Guardia de la Noche.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card15(Clone)",
+        "Nombre": "Euron G",
+        "Ataque": 7,
+        "Descripción": "Pirata sanguinario y tío de Theon.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card16(Clone)",
+        "Nombre": "Theon G",
+        "Ataque": 7,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card17(Clone)",
+        "Nombre": "Margaery T",
+        "Ataque": 7,
+        "Descripción": "La Reina de las Espinas.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card18(Clone)",
+        "Nombre": "Yara Grey",
+        "Ataque": 8,
+        "Descripción": "Capitana audaz de las Islas del Hierro.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card19(Clone)",
+        "Nombre": "Tywin L",
+        "Ataque": 8,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card20(Clone)",
+        "Nombre": "Oberyn M",
+        "Ataque": 8,
+        "Descripción": "El Príncipe de Dorne con sed de venganza.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card21(Clone)",
+        "Nombre": "Olenna T",
+        "Ataque": 7,
+        "Descripción": "La Reina de Espinas.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card22(Clone)",
+        "Nombre": "Davos S",
+        "Ataque": 7,
+        "Descripción": "El Caballero de la Cebolla, fiel consejero de Stannis.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card23(Clone)",
+        "Nombre": "Ramsay B",
+        "Ataque": 7,
+        "Descripción": "El Bastardo de Bolton, torturador despiadado.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card24(Clone)",
+        "Nombre": "Joffrey B",
+        "Ataque": 6,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card25(Clone)",
+        "Nombre": "Robb S",
+        "Ataque": 7,
+        "Descripción": "Hero (Sin efectos Especiales)",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card26(Clone)",
+        "Nombre": "Renly B",
+        "Ataque": 7,
+        "Descripción": "El joven y popular aspirante al Trono de Hierro.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card27(Clone)",
+        "Nombre": "Stannis B",
+        "Ataque": 7,
+        "Descripción": "El rey justiciero y devoto de R'hllor.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card28(Clone)",
+        "Nombre": "High S",
+        "Ataque": 7,
+        "Descripción": "El líder religioso de los Siete.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card29(Clone)",
+        "Nombre": "Hodor",
+        "Ataque": 6,
+        "Descripción": "El fiel criado de Bran Stark.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card30(Clone)",
+        "Nombre": "Gendry",
+        "Ataque": 7,
+        "Descripción": "El herrero bastardo y heredero.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card31(Clone)",
+        "Nombre": "Podrick P",
+        "Ataque": 7,
+        "Descripción": "El escudero leal y sorprendentemente habilidoso.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card32(Clone)",
+        "Nombre": "Beric D",
+        "Ataque": 8,
+        "Descripción": "Señor de la Luz y líder de la Hermandad sin Estandartes.",
+        "Faccion": "RangedZone"
+    },
+    {
+        "ID": "Card33(Clone)",
+        "Nombre": "Grey W",
+        "Ataque": 8,
+        "Descripción": "Comandante inquebrantable de los Inmaculados.",
+        "Faccion": "MeleeZone"
+    },
+    {
+        "ID": "Card34(Clone)",
+        "Nombre": "Missandei",
+        "Ataque": 7,
+        "Descripción": "Consejera y confidente de Daenerys Targaryen.",
+        "Faccion": "SlegeZone"
+    },
+    {
+        "ID": "Card35(Clone)",
+        "Nombre": "Muro de Hielo",
+        "Ataque": 0,
+        "Descripción": " Otorga a todas las unidades aliadas un aumento de defensa del 20% mientras esta carta esté en juego",
+        "Faccion": "CampZone"
+    },{
+        "ID": "Card36(Clone)",
+        "Nombre": "Kings Landing",
+        "Ataque": 0,
+        "Descripción": "Permite al jugador robar una carta adicional al principio de su turno mientras esta carta esté en juego",
+        "Faccion": "CampZone"
+    },
+    {
+        "ID": "Card37(Clone)",
+        "Nombre": "Invernalia",
+        "Ataque": 0,
+        "Descripción": "Aumenta la resistencia al frío de todas las unidades aliadas, haciéndolas inmunes a los efectos mientras esta carta esté en juego",
+        "Faccion": "CampZone"
+    },{
+        "ID": "Card38(Clone)",
+        "Nombre": "Fortaleza Roja",
+        "Ataque": 0,
+        "Descripción": "Aumenta el ataque de todas las unidades aliadas y enemigas en 1 punto por cada carta de personaje en el campo de batalla mientras esta carta esté en juego",
+        "Faccion": "CampZone"
+    }
+]
