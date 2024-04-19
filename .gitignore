@@ -3,3 +3,10 @@
 
 # Excepto la carpeta llamada "Menu"
 !Assets/
+
+# Ignorar archivos específicos
+Assembly-CSharp.csproj
+Gwent-main.sln
+LICENSE
+gwent-pro-3d-template.sln
+mono_crash.mem.36533.1.blob
