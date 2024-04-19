@@ -1,0 +1,5 @@
+# Ignorar todas las carpetas
+*/
+
+# Excepto la carpeta llamada "Menu"
+!Assets/
