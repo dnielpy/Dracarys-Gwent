@@ -1,4 +1,4 @@
-# Dracarys-Went Unity Project
+# Dracarys-Went Unity Project 🎮
 
 ## Overview
 Dracarys-Went is a game development endeavor inspired by the iconic Gwent card game from The Witcher 3. In this project, we aim to recreate the strategic card battles and unique mechanics of Gwynt within Unity.
@@ -12,8 +12,9 @@ Dracarys-Went is a game development endeavor inspired by the iconic Gwent card g
 ## Getting Started
 
 1. **Clone the Repository:**
-2. git clone https://github.com/your_username/Gwynt-Inspired-Unity-Project.git
-3. 2. **Install Unity:**
+   git clone https://github.com/your_username/Gwynt-Inspired-Unity-Project.git
+  
+2. **Install Unity:**
 - Ensure you have Unity installed (version X.X.X or later).
 - Open the project in Unity.
 
